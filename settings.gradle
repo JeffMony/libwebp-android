@@ -1,0 +1,3 @@
+rootProject.name = "libwebp-android"
+include ':app'
+include ':library'
